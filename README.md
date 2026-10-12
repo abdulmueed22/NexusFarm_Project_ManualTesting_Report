@@ -43,15 +43,6 @@ Based on the project's documentation, the application uses:
 - Microsoft SQL Server
 - AWS S3 for image storage
 
-## How to Use
-1. Download the Excel manual testing report from this repository.
-2. Review the Feature Inventory and Test Scenarios sheets.
-3. Execute the test cases against the application.
-4. Record actual results and mark each test case as Pass, Fail, Blocked, or Not Executed.
-5. Use the RTM sheet to verify requirement coverage.
-
 ## Purpose
 This project demonstrates practical skills in manual software testing, test case design, functional testing, test documentation, and requirement traceability.
 
-## Disclaimer
-This report is prepared for QA practice and portfolio demonstration. Test coverage and application behavior should be verified against the current version of NexusFarm before drawing conclusions about the application's quality.
